@@ -1,4 +1,4 @@
-FROM ijapesigan/docker-sem-001:latest
+FROM ijapesigan/sem-001:latest
 
 ADD scripts /usr/src/local/src
 RUN cd /usr/src/local/src     && \
