@@ -5,6 +5,7 @@ set -e
 bash ubuntu_sys_pkg.sh
 bash rproject_sys.sh
 bash rproject.sh
+bash openmx.sh
 bash lavaan.sh
 bash metasem.sh
 bash symsem.sh
